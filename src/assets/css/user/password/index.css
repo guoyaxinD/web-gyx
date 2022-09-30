@@ -1,0 +1,5 @@
+.mobile-main{width:100%;height:auto;clear:both;margin-top:2.5rem;}
+.mobile-main .cellphone-div{width:92%;height:2rem;border:#c5cbcf solid 1px;margin:0 auto;background-color:#FFFFFF;border-radius:4px;margin-top:3.5rem;position:relative}
+.mobile-main .cellphone-div .password{width:80%;height:100%;outline:none;-webkit-appearance: none;font-size:0.7rem;line-height:2rem;padding-left:0.3rem;}
+.mobile-main .next-btn{width:92%;height:2rem;margin:0 auto;background-color:#E42321;color:#FFFFFF;display:block;text-align:center;line-height:2rem;margin-top:0.5rem;font-size:0.8rem;border-radius:4px;}
+.mobile-main .cellphone-div .right{width:20%;height:100%;position:absolute;right:0px;top:0.2rem;}

@@ -1,0 +1,9 @@
+.header{width:100%;height:auto;}
+.header .menu{width:100%;height:2.5rem;position:fixed;z-index:2;top:0px;left:0px;background: linear-gradient(rgba(1,1,1,0.2) 0%,rgba(255,255,255,0) 100%);overflow:hidden;}
+.header .menu .logo{width:1.5rem;height:1.5rem;float:left;margin-left:3%;margin-right:3%;margin-top:0.2rem;background-image:url("../../images/common/class.png");background-repeat:no-repeat;background-size:1.3rem;background-position: center top;}
+.header .menu .search{width:65%;height:1.3rem;float:left;background:rgba(255,255,255,0.6);border-radius:7px;overflow:hidden;margin-top:0.2rem;}
+.header .menu .search .search-icon{width:1.7rem;height:1.3rem;background:url(../../images/common/search.png);background-repeat:no-repeat;background-size:70%;background-position:center 3px;float:left;}
+.header .menu .search .search-text{width:80%;height:1.3rem;color:#FFFFFF;float:left;font-size:0.7rem;line-height:1.3rem;}
+.header .menu .login{width:18%;height:2rem;color:#FFF;font-size:0.8rem;float:left;text-align:center;margin-top:0.4rem;}
+.header .menu .login span{color:#FFF;}
+.header .menu .login img{width:1.5rem;height:1.5rem;margin-top:-0.3rem;}

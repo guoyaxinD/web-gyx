@@ -1,0 +1,11 @@
+body,.luck-page{position:static;background: #FFFFFF;}
+.login-main{width:100%;margin-top:3.5rem;}
+.login-main .inputs{width:90%;height:2rem;border:#EFEFEF solid 1px;border-radius:2px;background:#FFFFFF;margin:0 auto;line-height:2rem;padding-left:0.5rem;font-size:0.7rem;margin-bottom:0.7rem;position:relative;}
+.login-main .inputs .right{width:20%;height:100%;position:absolute;right:0px;top:0px;}
+.login-main .inputs input{width:80%;height:100%;}
+.login-main .inputs .vcode-img{width:20%;height:60%;position:absolute;right:0px;top:20%;border-left:1px solid #EFEFEF;text-align:center;}
+.login-main .inputs .vcode-img img{width:80%;height:100%;}
+.login-main .login-btn{width:90%;height:2rem;background:#EB1625;line-height:2rem;text-align:center;color:#FFFFFF;margin:0 auto;display:block;border-radius:3px;}
+.login-main .find{width:90%;height:2rem;margin:0 auto;display:flex;justify-content: space-between;align-items:center;}
+.login-main .find .left{width:auto;height:auto;font-size:0.6rem;}
+.login-main .find .left img{width:0.8rem;height:0.8rem;vertical-align: middle}

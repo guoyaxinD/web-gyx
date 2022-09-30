@@ -1,0 +1,40 @@
+/*功能导航字体颜色*/
+.fun-text-color{color:#7b7f82;font-size:0.7rem;}
+/*首页商品区域导航标题*/
+.goods-title-color1{font-size:0.7rem;color:#F73B61;}
+.goods-title-color2{font-size:0.7rem;color:#FE6719;}
+.goods-title-color3{font-size:0.7rem;color:#5FC600;}
+.goodslist1-title-color{font-size:0.7rem;font-weight: bold;}
+.goodslist1-desc-color{font-size:0.6rem;color:#CB385D;}
+.goodslist1-price-color{font-size:0.7rem;color:#FFFFFF;}
+.goodslist2-desc-color{font-size:0.6rem;color:#7b7f82}
+.goodslist-price-color{font-size:0.7rem;color:#D32A4E}
+.goodslist-unprice-color{font-size:0.6rem;color:#7b7f82;text-decoration: line-through;}
+
+/*首页推荐标题字体*/
+.recom-title-color{font-size:0.8rem;color:#000000;}
+.recomgoods-title-color{font-size:0.7rem;color:#000000;}
+
+/*商品列表字体*/
+.goodsarea-title-color{font-size:0.7rem;color:#000000}
+.goodsarea-price-color{font-size:0.8rem;color:#F93036}
+.goodsarea-comment-color{font-size:0.6rem;color:#969696;}
+.goodsarea-comment-color span{color:#FF9B00}
+
+/*商品基本信息字体*/
+.color-rule-font{font-size:0.8rem;color:#000000;}
+.comment-title-font{font-size:0.8rem;color:#7b7f82}
+.comment-nickname-font{font-size:0.7rem;color:#000000}
+.comment-more-btn-font{font-size:0.7rem;color:#D50A17}
+.comment-more-btn-font a{color:#D50A17;text-decoration: none;}
+.comment-more-btn-font a:link{text-decoration: none;}
+
+/*销量字体*/
+.salers-font{font-size:0.8rem;color:#000000;}
+.salers-font-active{font-size:0.8rem;color:#FDA208;}
+/*属性值字体*/
+.vals-font-active{font-size:0.7rem;color:#FDA208;}
+
+/*订单确认实付金额*/
+.sum-nav-font{font-size:0.8rem;}
+.sum-price-font{font-size:0.8rem;color:#F51D2A}
